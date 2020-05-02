@@ -1,0 +1,8 @@
+;; shadow-cljs configuration
+{:deps true
+
+ :builds {:script
+          {:target :node-script
+           :main stepper.core/main
+           :preloads [marram.core]
+           :output-to "target/main.js"}}}

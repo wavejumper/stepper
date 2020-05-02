@@ -1,0 +1,8 @@
+node_modules/
+target/
+.cpcache/
+.idea/
+*.iml
+.shadow-cljs/
+*.xml
+*.xml.asc

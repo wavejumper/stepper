@@ -11,6 +11,7 @@
   "dependencies": {
     "@tonaljs/tonal": "^3.7.2",
     "react": "16.13.0",
-    "react-dom": "16.13.0"
+    "react-dom": "16.13.0",
+    "shadow-cljs": "^2.8.109"
   }
 }
